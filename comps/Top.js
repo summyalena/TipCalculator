@@ -1,6 +1,6 @@
 import React from 'react'
 import Logo from '../public/logo.svg'
-import Image from 'next/Image'
+import Image from 'next/image'
 const Top = () => {
   return (
       <div className="text-center sm:h-[10vh] sm:pt-6"> 

@@ -1,4 +1,4 @@
 {
-  "extends": ["next/babel","next/core-web-vitals"]
+  "parserOptions.sourceType": "babel-eslint"
 
 }
