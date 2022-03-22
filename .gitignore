@@ -12,8 +12,7 @@
 /.next/
 /out/
 
-# production
-/build
+
 
 # misc
 .DS_Store
@@ -31,5 +30,7 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
-# vercel
-.vercel
+
+
+#eslintrc
+.eslintrc.json
